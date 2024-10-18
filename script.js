@@ -57,7 +57,7 @@ function estraiNumero() {
 
 
 estraiBtn.addEventListener('click', estraiNumero); 
-
+//estraiBtn.addEventListener('click', );
 
 creaTabellone();
 creaCartellina();
